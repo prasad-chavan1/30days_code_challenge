@@ -11,6 +11,8 @@ Welcome to the Random Anime Quote Generator! As an anime fan, I created this pro
 
 You can try the live demo of the Random Anime Quote Generator [here](insert-demo-link).
 
+![](https://github.com/prasad-chavan1/30days_code_challenge/blob/main/Day-1_Anime_quote_generator/src/demo.png)
+
 ## Features
 
 ### Generate a Random Quote
