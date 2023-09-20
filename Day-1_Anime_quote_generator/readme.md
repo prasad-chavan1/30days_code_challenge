@@ -1,4 +1,4 @@
-# Random Anime Quote Generator
+# Random Anime Quote Generator💻🎉
 
 Welcome to the Random Anime Quote Generator! As an anime fan, I created this project to share some of my favorite anime quotes with you. This simple web application allows you to:
 
