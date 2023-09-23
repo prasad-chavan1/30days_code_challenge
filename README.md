@@ -11,9 +11,9 @@ Below is a list of the projects I've completed during this challenge. Click on t
 [Explore Site]()
 
 1. [Day 1: Random Anime Quote Generator](https://github.com/prasad-chavan1/30days_code_challenge/tree/main/Day-1_Anime_quote_generator) | [Live Demo](link-to-day1-demo)
-2. [Day 2: Project Title](link-to-day2-code) | [Live Demo](link-to-day2-demo)
-3. [Day 3: Project Title](link-to-day3-code) | [Live Demo](link-to-day3-demo)
-4. ...
+2. [Day 2: Captcha Generator](https://github.com/prasad-chavan1/30days_code_challenge/tree/main/Day-2_Captcha_generator) | [Live Demo](link-to-day2-demo)
+3. [Day 3: Number Guess Game](https://github.com/prasad-chavan1/30days_code_challenge/tree/main/Day-3_Number_guess) | [Live Demo](link-to-day3-demo)
+4. [Day 4: Todo App](https://github.com/prasad-chavan1/30days_code_challenge/tree/main/Day-4_Todo_app) | [Live Demo](link-to-day3-demo)
 
 ## Connect with Me
 
